@@ -1,0 +1,40 @@
+
+
+
+
+table{
+    border: red solid;
+    border-spacing: 8px;
+    padding: 1;
+    background-color: rgb(231, 198, 152);
+    text-align: left;
+    width: 50%;
+
+    
+    
+
+}
+main{
+    background-color: rgb(231, 198, 152);;
+    box-sizing: content-box;
+
+}
+section{
+    display: flex;
+    border: red 2px solid;
+    
+}
+
+
+/* Portátils */
+@media only screen and (min-width : 1224px) {
+    font-size: 12px;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    font-size: 8;
+    image-orientation:focus-visible;
+    
+
+}
+

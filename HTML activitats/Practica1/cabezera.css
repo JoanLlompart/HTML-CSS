@@ -1,0 +1,16 @@
+*{
+    margin: 0ch;
+    padding: 0ch;
+    text-align: center;
+}
+img{
+    width:200px;
+    height:150px;
+    float: left;
+
+
+}
+body{ font-family: 'Times New Roman', Times, serif;
+    font-size:50;
+    text-align: justify;
+}

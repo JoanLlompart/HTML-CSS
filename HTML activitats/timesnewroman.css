@@ -1,0 +1,37 @@
+ 
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: rgb(31, 6, 88);background-color: aqua;
+
+
+}
+p.verd{
+     font-family: 'Times New Roman', Times, serif;
+     font-size: xx-large;
+     font-weight: bolder;
+     color:green
+     
+}
+h1.class1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color:green;background-color: #ff80c0;
+    bottom: 100px;
+
+}
+p.class2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12;
+    color: rgb(177, 19, 19);background-color:grey;
+
+}
+
+header{
+
+}
+
+img {
+    display: 1000px;
+    position: relative;
+}
